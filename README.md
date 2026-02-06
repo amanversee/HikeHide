@@ -86,18 +86,31 @@ https://hikehide.onrender.com
 HikeHide/
 │
 ├── controllers/      # Route logic
+
 ├── models/           # Mongoose schemas
+
 ├── routes/           # Express routes
+
 ├── views/            # EJS templates
+
 │   ├── layouts/
+
 │   ├── listings/
+
 │   └── includes/
+
 ├── public/           # CSS, JS, images
+
 ├── utils/            # Error handling & helpers
+
 ├── middleware.js     # Custom middleware
+
 ├── cloudConfig.js    # Cloudinary config
+
 ├── app.js            # Main app file
+
 ├── package.json
+
 └── .env (ignored)
 
 
