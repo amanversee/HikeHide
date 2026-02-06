@@ -1,15 +1,19 @@
 🏕️ **HikeHide**
 
 HikeHide is a full-stack Airbnb-like web application where users can discover, create, review, and manage travel listings.
+
 It is built using the MVC architecture with authentication, authorization, image uploads, and cloud deployment.
 
 
 **🚀 Live Demo**
+
 **👉 Deployed on Render**
+
 https://hikehide.onrender.com
 
 
 **🛠️ Tech Stack**
+
 **Frontend**
 
 * EJS (Embedded JavaScript Templates)
@@ -115,6 +119,7 @@ HikeHide/
 
 
 **⚙️ Environment Variables**
+
 Create a .env file in the root directory:
 
 ATLASDB_URL=your_mongodb_atlas_url
@@ -134,16 +139,21 @@ NODE_ENV=development
 **🧪 Local Setup**
 
 1️⃣ Clone the repository
+
 git clone https://github.com/amanversee/HikeHide.git
+
 cd HikeHide
 
 2️⃣ Install dependencies
+
 npm install
 
 3️⃣ Add .env file
+
 (See Environment Variables section)
 
 4️⃣ Run the server
+
 nodemon app.js
 
 Visit 👉 http://localhost:8080/listings
@@ -166,9 +176,13 @@ Visit 👉 http://localhost:8080/listings
 
 
 **👨‍💻 Author**
+
 Aman Mourya
+
 📌 GitHub: @amanversee
 
 **⭐ Show Your Support**
+
 If you like this project, please ⭐ the repository! 
-readme file
+
+
