@@ -105,11 +105,17 @@ HikeHide/
 Create a .env file in the root directory:
 
 ATLASDB_URL=your_mongodb_atlas_url
+
 SECRET=your_session_secret
+
 CLOUDINARY_CLOUD_NAME=your_cloud_name
+
 CLOUDINARY_KEY=your_cloudinary_key
+
 CLOUDINARY_SECRET=your_cloudinary_secret
+
 PORT=8080
+
 NODE_ENV=development
 
 **🧪 Local Setup**
